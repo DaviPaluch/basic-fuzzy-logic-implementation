@@ -56,3 +56,5 @@ valor_imovel.view()
 receita_cliente.view()
 localizacao.view()
 classificacao.view(sim=classificacao_simulador)
+
+enter = input("Enter to exit:")
